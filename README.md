@@ -1,7 +1,7 @@
-#🤖 AI Customer Support
-Revolutionizing customer service with cutting-edge artificial intelligence.
-Show Image
-🚀 About
+# AI Customer Support
+
+##Revolutionizing customer service with cutting-edge artificial intelligence.
+**About**
 AI Customer Support is a next-generation solution that harnesses the power of machine learning and natural language processing to provide lightning-fast, accurate, and personalized customer service. Say goodbye to long wait times and frustrated customers!
 ✨ Features
 
@@ -12,7 +12,7 @@ Intelligent ticket routing
 Real-time learning and improvement
 Seamless integration with existing systems
 
-🛠️ Tech Stack
+## Tech Stack
 
 Python
 TensorFlow
@@ -21,7 +21,7 @@ FastAPI
 Docker
 Kubernetes
 
-🏁 Getting Started
+## Getting Started
 bashCopy# Clone the repo
 git clone https://github.com/yourusername/ai-customer-support.git
 
@@ -48,4 +48,4 @@ Our amazing team of contributors
 You, for checking out our project!
 
 
-💡 Fun Fact: Our AI can handle over 1000 customer queries simultaneously, making it faster than a caffeinated octopus on a typewriter!
+💡 **Fun Fact: Our AI can handle over 1000 customer queries simultaneously, making it faster than a caffeinated octopus on a typewriter!**
